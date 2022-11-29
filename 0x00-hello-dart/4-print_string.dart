@@ -1,5 +1,5 @@
 void main() {
-  String str = "Holberton School";
+  String str = "Test Testing";
     print(str*3);
-    print("Holberton\n");
+    print(str.substring(0, 9) + '\n');
 }
